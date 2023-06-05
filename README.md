@@ -1,4 +1,4 @@
-# Kanban
+# Kanban Board
 ##Installation :-
 To install and run the application locally,steps
 1.Clone this repository to your local machine.
